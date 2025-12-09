@@ -25,7 +25,7 @@ Currently, I'm diving deep into **Agentic Workflows (LangGraph)** and **Enterpri
 #### 🔒 [Enterprise RAG Suite](https://github.com/pueraeternis/secure-enterprise-rag)
 *Self-hosted Knowledge Base Assistant with focus on data privacy.*
 *   **Features:** Multi-modal support, hybrid search (dense + sparse), strict role-based access.
-*   **Tech:** Open Web UI, Milvus, Llama-3.
+*   **Tech:** Open Web UI, Milvus, Mistral.
 
 #### ⚡ [High-Performance Inference with Triton](https://github.com/pueraeternis/triton-inference-deploy)
 *Benchmarking and deploying LLMs for high-load environments.*
