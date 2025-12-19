@@ -27,10 +27,14 @@ Currently, I'm diving deep into **Agentic Workflows (LangGraph)** and **Enterpri
 *   **Features:** Multi-modal support, hybrid search (dense + sparse), strict role-based access.
 *   **Tech:** Open Web UI, Milvus, Mistral.
 
-#### ⚡ [High-Performance Inference with Triton](https://github.com/pueraeternis/triton-inference-deploy)
-*Benchmarking and deploying LLMs for high-load environments.*
-*   **Result:** Achieved 3x throughput increase compared to standard FastAPI serving.
-*   **Tech:** NVIDIA Triton Inference Server, TensorRT, Prometheus (Monitoring).
+#### ⚡ [High-Performance Multimodal RAG Agent for Enterprise Support](https://github.com/pueraeternis/triton-multimodal-rag)
+*Scalable multimodal retrieval-augmented generation for technical support workloads.*
+
+*   **Scope:** Enterprise-grade RAG agent with text + vision understanding for troubleshooting and knowledge retrieval.
+*   **Features:** Visual grounding with YOLO, semantic search with re-ranking, and efficient multimodal context assembly.
+*   **Performance:** Consolidated GPU memory management and high-throughput inference on NVIDIA A100.
+*   **Tech:** NVIDIA Triton Inference Server (BLS, Ensembles), vLLM, TensorRT, Qdrant.
+
 
 ---
 
