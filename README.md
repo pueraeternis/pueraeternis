@@ -17,7 +17,7 @@ Currently, I'm pushing the boundaries of **Enterprise RAG** and **Agentic Workfl
 
 ### 🚀 Featured Projects
 
-#### 🌌 [AuraDSL: Enterprise-Grade Text-to-DSL Pipeline](https://github.com/pueraeternis/auradsl-phi4)
+#### 🌌 [AuraDSL: Enterprise-Grade Text-to-DSL Pipeline](https://github.com/pueraeternis/dsl-finetuning-pipeline)
 *Bridging Natural Language and Proprietary Analytics Engines.*
 * **Core:** Fine-tuned **Microsoft Phi-4** for complex reasoning and schema-aware synthetic language generation.
 * **Innovation:** Achieved **100% execution accuracy** via a RAG-augmented pipeline and custom AuraDSL-to-SQL transpiler.
