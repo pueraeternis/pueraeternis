@@ -1,65 +1,108 @@
-### Hi there, I'm Vitaly 👋
+# Hi, I'm Vitaliy Babchuk 👋
 
-I am a **Senior ML Engineer** specialized in building **High-Load Inference Pipelines** and **Autonomous AI Systems**. My expertise lies at the intersection of LLM fine-tuning, GPU-accelerated serving, and complex agentic orchestration.
+I build production AI systems.
 
-Currently, I'm pushing the boundaries of **Enterprise RAG** and **Agentic Workflows** using LangGraph and NVIDIA Triton.
+My work focuses on designing reliable software around large language models rather than treating LLMs as the product itself.
 
----
-
-### 🛠 Tech Stack
-
-* **LLM & GenAI:** Microsoft Phi-4, Google Gemma 3, Unsloth (QLoRA), LangGraph, LlamaIndex.
-* **Inference & MLOps:** **NVIDIA Triton Inference Server** (BLS, Ensembles), **vLLM**, TensorRT-LLM, ONNX, Docker.
-* **Vector Infrastructure:** Milvus, Qdrant, ChromaDB, hybrid search strategies.
-* **Engineering:** Python (Asyncio), FastAPI, PyTorch, SQL, uv.
+I enjoy building open-source AI systems, reusable engineering frameworks, and production-ready reference implementations that solve real business problems through Agentic AI.
 
 ---
 
-### 🚀 Featured Projects
+## Engineering Philosophy
 
-#### 🌌 [AuraDSL: Enterprise-Grade Text-to-DSL Pipeline](https://github.com/pueraeternis/dsl-finetuning-pipeline)
-*Bridging Natural Language and Proprietary Analytics Engines.*
-* **Core:** Fine-tuned **Microsoft Phi-4** for complex reasoning and schema-aware synthetic language generation.
-* **Innovation:** Achieved **100% execution accuracy** via a RAG-augmented pipeline and custom AuraDSL-to-SQL transpiler.
-* **Impact:** Solved the "cold start" problem for niche DSLs using schema-driven synthetic data generation.
-* **Tech:** Phi-4, Unsloth, ChromaDB, SQLite, NVIDIA Triton.
+I believe AI systems should be engineered with the same discipline as any production software system.
 
+The real engineering challenge is not choosing the best model—it's designing everything around it.
 
+A successful AI system is reliable, maintainable, observable, and easy to evolve.
 
-#### ⚡ [Multimodal RAG with NVIDIA Triton & vLLM](https://github.com/pueraeternis/triton-multimodal-rag)
-*Ultra-low latency RAG agent for technical troubleshooting.*
-* **Architecture:** Complex DAG orchestration using **Triton BLS** to manage YOLOv8 (Vision), SentenceTransformers, and Qwen-3 MoE.
-* **Key Features:** Visual grounding for hardware diagnostics, "Retrieve-then-Rerank" strategy for precision.
-* **Efficiency:** Zero-copy tensor movement within GPU shared memory for high-throughput inference.
-* **Tech:** Triton Server, vLLM, Qdrant, YOLO, Cross-Encoders.
+My engineering principles are:
 
-
-
-#### 🤖 [Autonomous Social Media Agents](https://github.com/pueraeternis/autonomous-content-agents)
-*A multi-agent system for automated, high-quality technical content curation.*
-* **Core:** Directed Cyclic Graph (DCG) built with **LangGraph** orchestrating 5+ specialized agents.
-* **Features:** Self-correction loops (Critic-Writer), native multimodality (Gemma 3 Vision), and automated deduplication.
-* **Tech:** Python, LangGraph, Gemma 3 (27B), vLLM, Docker.
-
-
-
-#### 🔒 [Secure Enterprise RAG Suite](https://github.com/pueraeternis/secure-enterprise-rag)
-*Air-gapped Knowledge Base Assistant for privacy-sensitive environments.*
-* **Privacy:** 100% offline execution ensuring **zero data leakage** to public APIs.
-* **Search:** Advanced hybrid retrieval (Dense BGE-M3 + Sparse BM25) with citation grounding.
-* **Tech:** FastAPI, Milvus, vLLM, LlamaIndex, Open Web UI.
+- Architecture over hype
+- Reliability by design
+- Observability by design
+- Evaluation by design
+- Simplicity over cleverness
+- Maintainability
+- Reproducibility
+- Automation first
 
 ---
 
-### 📈 Stats & Proficiency
+## What I Build
 
-* **Models:** Specialized in Small Language Models (SLMs) optimization for production.
-* **Hardware:** Deep experience with NVIDIA A100/H100 clusters and inference cost reduction.
-* **Architecture:** Clean Architecture & Hexagonal patterns in AI service design.
+My current engineering interests include:
+
+- Agentic AI Systems
+- Multi-Agent Architectures
+- AI Workflow Orchestration
+- Enterprise RAG
+- AI Infrastructure
+- AI Evaluation
+- AI Observability
+- MCP Integrations
+- AI Developer Tools
+- Engineering Methodology for AI-assisted Development
 
 ---
 
-### 📫 Let's Connect
+## Current Focus
 
-* **LinkedIn:** [Vitaly Babchuk](https://www.linkedin.com/in/vitaliy-babchuk)
-* **Email:** babchuk.vit@gmail.com
+Currently I'm building and exploring:
+
+- production Agentic AI systems;
+- AI-native software architecture;
+- engineering workflows powered by AI agents;
+- reusable open-source engineering frameworks;
+- practical reference implementations for modern AI systems.
+
+---
+
+## Technology
+
+### Languages
+
+- Python
+- SQL
+
+### AI Engineering
+
+- LangGraph
+- LlamaIndex
+- MCP
+
+### AI Infrastructure
+
+- NVIDIA Triton Inference Server
+- vLLM
+- FastAPI
+- Docker
+
+### Knowledge Systems
+
+- Milvus
+- Qdrant
+
+### Engineering
+
+- Git
+- GitHub Actions
+- Linux
+- uv
+
+---
+
+## Open Source
+
+This GitHub is my engineering workspace.
+
+Here I publish production-oriented reference implementations, reusable engineering templates, educational projects, and experiments related to AI systems engineering.
+
+The repositories are continuously evolving and reflect what I'm currently building and learning.
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/vitaliy-babchuk
+- Email: babchuk.vit@gmail.com
