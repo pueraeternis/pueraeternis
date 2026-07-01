@@ -1,20 +1,26 @@
-# Hi, I'm Vitaliy Babchuk 👋
+# AI Systems Engineering
 
-I build production AI systems.
+I design and build production AI systems that solve real business problems.
 
-My work focuses on designing reliable software around large language models rather than treating LLMs as the product itself.
+My work focuses on engineering reliable software around large language models rather than treating LLMs as the product itself.
 
-I enjoy building open-source AI systems, reusable engineering frameworks, and production-ready reference implementations that solve real business problems.
+I enjoy building open-source AI systems, reusable engineering frameworks, and production-ready reference implementations.
 
 ---
 
 # Engineering Philosophy
 
-I believe AI systems should be engineered with the same discipline as any production software system.
+AI systems should be engineered with the same discipline as any production software system.
 
 The real engineering challenge is not selecting the best model—it's designing everything around it.
 
-A successful AI system is reliable, maintainable, observable, reproducible, and easy to evolve.
+I believe production AI should be:
+
+- reliable;
+- observable;
+- maintainable;
+- reproducible;
+- easy to evolve.
 
 The engineering principles behind my work are:
 
@@ -29,9 +35,9 @@ The engineering principles behind my work are:
 
 ---
 
-# What I Build
+# Areas of Interest
 
-My work currently focuses on designing and building:
+My current work focuses on:
 
 - Agentic AI Systems
 - Multi-Agent Architectures
@@ -48,12 +54,12 @@ My work currently focuses on designing and building:
 
 # Current Focus
 
-I'm currently exploring:
+Currently exploring and building:
 
 - production Agentic AI systems;
 - AI-native software architecture;
 - engineering workflows powered by AI agents;
-- reusable open-source engineering frameworks;
+- reusable engineering frameworks;
 - practical reference implementations for modern AI systems.
 
 ---
@@ -65,7 +71,7 @@ I'm currently exploring:
 - Python
 - SQL
 
-### AI Engineering
+### AI Systems
 
 - LangGraph
 - LlamaIndex
@@ -92,15 +98,13 @@ I'm currently exploring:
 
 ---
 
-# Open Source
+# About This GitHub
 
 This GitHub is my engineering workspace.
 
-Here I publish production-oriented reference implementations, reusable engineering templates, educational projects, and technical experiments related to AI systems engineering.
+I use it to publish production-oriented reference implementations, reusable engineering templates, educational materials, and technical experiments.
 
-The repositories evolve continuously and reflect what I'm currently building, learning, and improving.
-
-Detailed project descriptions will continue to evolve as the repositories mature.
+The repositories evolve continuously and reflect the technologies, architectural ideas, and engineering practices I'm currently exploring.
 
 ---
 
