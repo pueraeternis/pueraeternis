@@ -12,17 +12,9 @@ I enjoy building open-source AI systems, reusable engineering frameworks, and pr
 
 AI systems should be engineered with the same discipline as any production software system.
 
-The real engineering challenge is not selecting the best model—it's designing everything around it.
+The real engineering challenge is not selecting the best model—it's designing reliable software around it.
 
-I believe production AI should be:
-
-- reliable;
-- observable;
-- maintainable;
-- reproducible;
-- easy to evolve.
-
-The engineering principles behind my work are:
+My engineering principles are:
 
 - Architecture over hype
 - Reliability by design
@@ -48,13 +40,13 @@ My current work focuses on:
 - AI Observability
 - MCP Integrations
 - AI Developer Tools
-- Engineering Methodology for AI-assisted Development
+- Engineering Methodology for AI-Assisted Development
 
 ---
 
 # Current Focus
 
-Currently exploring and building:
+I'm currently exploring and building:
 
 - production Agentic AI systems;
 - AI-native software architecture;
