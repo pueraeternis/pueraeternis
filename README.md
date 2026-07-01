@@ -4,19 +4,19 @@ I build production AI systems.
 
 My work focuses on designing reliable software around large language models rather than treating LLMs as the product itself.
 
-I enjoy building open-source AI systems, reusable engineering frameworks, and production-ready reference implementations that solve real business problems through Agentic AI.
+I enjoy building open-source AI systems, reusable engineering frameworks, and production-ready reference implementations that solve real business problems.
 
 ---
 
-## Engineering Philosophy
+# Engineering Philosophy
 
 I believe AI systems should be engineered with the same discipline as any production software system.
 
-The real engineering challenge is not choosing the best model—it's designing everything around it.
+The real engineering challenge is not selecting the best model—it's designing everything around it.
 
-A successful AI system is reliable, maintainable, observable, and easy to evolve.
+A successful AI system is reliable, maintainable, observable, reproducible, and easy to evolve.
 
-My engineering principles are:
+The engineering principles behind my work are:
 
 - Architecture over hype
 - Reliability by design
@@ -29,9 +29,9 @@ My engineering principles are:
 
 ---
 
-## What I Build
+# What I Build
 
-My current engineering interests include:
+My work currently focuses on designing and building:
 
 - Agentic AI Systems
 - Multi-Agent Architectures
@@ -46,9 +46,9 @@ My current engineering interests include:
 
 ---
 
-## Current Focus
+# Current Focus
 
-Currently I'm building and exploring:
+I'm currently exploring:
 
 - production Agentic AI systems;
 - AI-native software architecture;
@@ -58,7 +58,7 @@ Currently I'm building and exploring:
 
 ---
 
-## Technology
+# Technology
 
 ### Languages
 
@@ -92,17 +92,19 @@ Currently I'm building and exploring:
 
 ---
 
-## Open Source
+# Open Source
 
 This GitHub is my engineering workspace.
 
-Here I publish production-oriented reference implementations, reusable engineering templates, educational projects, and experiments related to AI systems engineering.
+Here I publish production-oriented reference implementations, reusable engineering templates, educational projects, and technical experiments related to AI systems engineering.
 
-The repositories are continuously evolving and reflect what I'm currently building and learning.
+The repositories evolve continuously and reflect what I'm currently building, learning, and improving.
+
+Detailed project descriptions will continue to evolve as the repositories mature.
 
 ---
 
-## Contact
+# Contact
 
 - LinkedIn: https://www.linkedin.com/in/vitaliy-babchuk
 - Email: babchuk.vit@gmail.com
